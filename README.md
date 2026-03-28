@@ -14,11 +14,18 @@ ________________________________________________________________________________
 ## 📌 Perfil Profissional
 Olá! Sou Gabriel , Building Automation Technician  com forte base técnica, participou na melhoria de sistemas prediais atomatizados.
 
+
+
 💼 Atuação: Building Automation Technician focado em entrega de valor e soluções eficientes no mercado.
+
 🎓 Formação: Análise e Desenvolvimento de Sistemas ( Fatec Ipiranga ).
+
 🎯 Especialidades: CLP ( Niagara ),  Arduino Uno.
+
 🇺🇸 Idioma: Inglês Intermediário 
+
 💻 Tech Stack: Conhecimento prático em C++, Java, MySql.
+
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
