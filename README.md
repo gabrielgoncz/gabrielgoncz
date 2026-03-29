@@ -18,17 +18,6 @@
 </div>
 
 
-
-# Gabriel Gonçalves
-### Product Owner | Tech Professional
-
-## 🚀 Systems Analysis and Development Student | Building Automation Technician 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgoncalves060306@gmail.com)
-
----
-
 ## 📌Perfil Profissional
 
 Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, participou na melhoria de sistemas prediais atomatizados.
