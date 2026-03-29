@@ -58,13 +58,21 @@ Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, part
 
 ---
 
-## 🐉 Minha Jornada de Código
+🐍 Minha Jornada de Código
 
-<!-- Alternativa visual com dragão -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucaspalmaccio&label=Profile%20Views&color=3382F7&style=flat-square" alt="lucaspalmaccio" />
+  
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/lucaspalmaccio/lucaspalmaccio/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
 
-<!-- Snake (funcional real) -->
-![Snake animation](https://github.com/gabrielgoncz/gabrielgoncz/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3382F7&height=100&section=footer"/>
+</div>
 
 ---
 
