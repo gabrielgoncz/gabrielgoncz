@@ -71,9 +71,8 @@ Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, part
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3382F7&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=footer"/>
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=footer"/>
