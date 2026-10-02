@@ -37,10 +37,10 @@ Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, part
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Gestão & Produtos
-![Postgress](https://img.shields.io/badge/Postgress-6A0DAD?style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/PowerBI-8A2BE2?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-8A2BE2?style=for-the-badge)
-![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge)
+![PostgreSQL](https://shields.io)
+![Power BI](https://shields.io)
+![AutoCAD](https://shields.io)
+![React](https://shields.io)
 
 
 ### Desenvolvimento
@@ -51,12 +51,12 @@ Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, part
 ### Web
 ![HTML](https://img.shields.io/badge/HTML-6A0DAD?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/CSS-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/CSS-8A2BE2?style=for-the-badge&logo=javascript3&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=gabrielgoncz&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=gabrielgoncz&theme=tokyonight)
 
