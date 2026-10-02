@@ -37,11 +37,10 @@ Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, part
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Gestão & Produtos
-![PostgreSQL](https://shields.io)
-![Power BI](https://shields.io)
-![AutoCAD](https://shields.io)
-![React](https://shields.io)
-
+[![PostgreSQL](https://shields.io)](https://postgresql.org)
+[![Power BI](https://shields.io)](https://microsoft.com)
+[![AutoCAD](https://shields.io)](https://autodesk.com)
+[![React](https://shields.io)](https://react.dev)
 
 
 ### Desenvolvimento
