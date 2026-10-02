@@ -43,6 +43,7 @@ Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, part
 ![React](https://shields.io)
 
 
+
 ### Desenvolvimento
 ![Java](https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
