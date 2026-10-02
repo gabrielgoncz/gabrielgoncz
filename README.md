@@ -23,9 +23,13 @@
 Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, participou na melhoria de sistemas prediais automatizados.
 
 💼 Atuação: Técnico em Automação Predial focado em entrega de valor e soluções eficientes no mercado.
+
 🎓 Formação: Análise e Desenvolvimento de Sistemas (Fatec Ipiranga).
+
 🎯 Especialidades: CLP (Niágara), Arduino Uno.
+
 🇺🇸 Idioma: Inglês Intermediário
+
 💻 Tech Stack: Conhecimento prático em C++, Java, MySql.
 
 ---
