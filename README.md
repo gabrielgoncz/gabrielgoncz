@@ -37,17 +37,21 @@ Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, part
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Gestão & Produtos
-![Scrum](https://img.shields.io/badge/Scrum-6A0DAD?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-8A2BE2?style=for-the-badge)
+![Postgress](https://img.shields.io/badge/Postgress-6A0DAD?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/PowerBI-8A2BE2?style=for-the-badge)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-8A2BE2?style=for-the-badge)
+![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge)
+
 
 ### Desenvolvimento
 ![Java](https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4B0082?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Web
 ![HTML](https://img.shields.io/badge/HTML-6A0DAD?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/CSS-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
